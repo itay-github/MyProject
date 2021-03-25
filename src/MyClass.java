@@ -4,6 +4,6 @@ public class MyClass {
         int x = 8;
         int z = 9;
         String almog="the best partner";
-
+        int g = 10;
     }
 }
